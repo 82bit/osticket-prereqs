@@ -1,3 +1,5 @@
+![1](https://github.com/giovannibriones/osticket-prereqs/assets/163789590/e33517d9-2225-44a4-957e-003ecbb363de)
+
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
